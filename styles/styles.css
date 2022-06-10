@@ -4,4 +4,6 @@ p {
 
 img {
   width: 300px;
+  border: 1px; 
+  padding: 5px;
 }
